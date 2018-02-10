@@ -5,7 +5,6 @@ Maintainer: Adam Boardman <adamboardman@gmail.com>
 Build-Depends: dbus,
                debhelper (>= 9),
                libevdev-dev,
-               libmirclient-dev,
                libqt5sql5-sqlite (>= 5.5.1~),
                libudev-dev,
                pkg-config,
