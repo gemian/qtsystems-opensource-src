@@ -1,7 +1,7 @@
 Source: qtsystems-opensource-src
 Section: libs
 Priority: optional
-Maintainer: Timo Jyrinki <timo-jyrinki@ubuntu.com>
+Maintainer: Adam Boardman <adamboardman@gmail.com>
 Build-Depends: dbus,
                debhelper (>= 9),
                libevdev-dev,
@@ -13,11 +13,9 @@ Build-Depends: dbus,
                qtbase5-private-dev (>= 5.5.1~),
                qtdeclarative5-private-dev (>= 5.5.1~),
                udev,
-Standards-Version: 3.9.4
-Homepage: http://qt-project.org/
-Vcs-Git: git://anonscm.debian.org/pkg-kde/qt/qtsystems.git
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/qt/qtsystems.git;a=summary
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/qtsystems-opensource-src
+Standards-Version: 3.9.8
+Homepage: https://github.com/gemian/qtsystems-opensource-src
+Vcs-Git: https://github.com/gemian/qtsystems-opensource-src.git
 
 Package: libqt5serviceframework5
 Architecture: any
