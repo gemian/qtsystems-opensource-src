@@ -164,7 +164,6 @@ Package: qtsystems5-dev
 Section: libdevel
 Architecture: any
 Depends: libevdev-dev,
-         libmirclient-dev,
          libqt5publishsubscribe5 (= ${binary:Version}),
          libqt5serviceframework5 (= ${binary:Version}),
          libqt5systeminfo5 (= ${binary:Version}),
