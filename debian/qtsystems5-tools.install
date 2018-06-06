@@ -1,2 +1,2 @@
-usr/lib/*/qt5/bin/servicefw
-usr/lib/*/qt5/bin/sfwlisten
+usr/lib/qt5/bin/servicefw
+usr/lib/qt5/bin/sfwlisten
